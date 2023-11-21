@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Adeel Ahmad, a passionate developer building digital wonders.
+I'm Sibghat Ullah, a passionate developer.
 
-## Who Am I? 🚀
+
 
 - 📝 Writing Words, Compiling Code
 - 🛠️ Crafting web and app experiences
@@ -61,17 +61,14 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
 
 <br>
 
-<p align="center">Wanna Know me More?</p>
+<p align="center">Contact Me</p>
 
 <p align="center">
  
-<a href="https://twitter.com/iAdeelAhmadDev" target="_blank">
+<a href="https://twitter.com/SibghatAamir42" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
 
-<a href="https://www.instagram.com/hey_adeel" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>
-
-<a href="https://www.linkedin.com/in/adeel-ahmad-7847311b9/" target="_blank">
+<a href="https://www.linkedin.com/in/sibghat-ullah34/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 </p>
