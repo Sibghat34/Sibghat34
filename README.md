@@ -9,7 +9,7 @@ I'm Sibghat Ullah, a passionate developer.
 - 💻 Embracing the world of code and tech
 - 🚀 On a journey to mastery
 - 🎯 Goal : To be a better Developer
-- 📫 Contact Me : [devadeelahmad@gmail.com](mailto:devadeelahmad@gmail.com)
+- 📫 Contact Me : [sibghat.aamir34@gmail.com](mailto:sibghat.aamir34@gmail.com)
 - 💌 Fun Facts :
   - 🍔 Devourer of great food
   - 🎓 Exploring the realms of academia
